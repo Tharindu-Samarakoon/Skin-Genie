@@ -23,6 +23,10 @@ a {
   a:hover {
     text-decoration: none; }
 
+.site-logo-image {
+      max-width: 100px; /* Adjust the size as needed */
+      height: auto;
+  }
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
